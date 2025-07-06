@@ -14,6 +14,6 @@ const redTeam = ["ahmed", "mohamed", "ali"]
 console.log (redTeam);
 console.log (langs);
 
-const redTeam2 = ["ahmed", "mohamed", "ali"]
+const redTeam2 = ["ahmed", "mohamed", "jamal"]
 console.log (redTeam);
 console.log (redTeam[2])
